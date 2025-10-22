@@ -1,0 +1,29 @@
+ol{
+    margin-top: -14px;
+    list-style-position: inside;
+}
+
+/*element selector*/
+p{
+    color: red;
+}
+
+/*class selector*/
+.note{
+    color: blue;
+}
+
+/*id selector*/
+#list3{
+    color: green;
+}
+
+/*attribute selector*/
+li[value="4"]{
+    color:purple;
+}
+
+/*universal selector*/
+*{
+    text-align: center
+}

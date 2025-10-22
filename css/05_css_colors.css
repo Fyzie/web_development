@@ -1,0 +1,20 @@
+/*https://colorhunt.co/*/
+
+html{
+    background-color: #ECD5BC;
+}
+h1{
+    background-color: #758A93;
+    color: #E9B63B;
+    font-size: 50px;
+}
+h2{
+    background-color: #C66E52;
+    color: #ECD5BC;
+    font-size: 30px;
+    font-style: italic;
+}
+*{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
